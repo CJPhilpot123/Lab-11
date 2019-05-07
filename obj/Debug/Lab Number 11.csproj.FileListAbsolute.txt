@@ -1,0 +1,7 @@
+C:\Users\EpikF\source\repos\Lab Number 11\Lab Number 11\bin\Debug\Lab Number 11.exe.config
+C:\Users\EpikF\source\repos\Lab Number 11\Lab Number 11\bin\Debug\Lab Number 11.exe
+C:\Users\EpikF\source\repos\Lab Number 11\Lab Number 11\bin\Debug\Lab Number 11.pdb
+C:\Users\EpikF\source\repos\Lab Number 11\Lab Number 11\obj\Debug\Lab Number 11.csprojAssemblyReference.cache
+C:\Users\EpikF\source\repos\Lab Number 11\Lab Number 11\obj\Debug\Lab Number 11.csproj.CoreCompileInputs.cache
+C:\Users\EpikF\source\repos\Lab Number 11\Lab Number 11\obj\Debug\Lab Number 11.exe
+C:\Users\EpikF\source\repos\Lab Number 11\Lab Number 11\obj\Debug\Lab Number 11.pdb
